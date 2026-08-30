@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — Discretio Secure Vault</title>
+<meta name="description" content="Privacy Policy for Discretio Secure Vault, an offline on-device encrypted vault app.">
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #ffffff;
+    --fg: #1f2328;
+    --muted: #57606a;
+    --border: #d0d7de;
+    --card: #f6f8fa;
+    --accent: #0969da;
+    --warn-bg: #fff8c5;
+    --warn-border: #d4a72c;
+    --warn-fg: #4d3800;
+    --code-bg: #eef1f4;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117;
+      --fg: #e6edf3;
+      --muted: #9198a1;
+      --border: #30363d;
+      --card: #161b22;
+      --accent: #4493f8;
+      --warn-bg: #3b2f00;
+      --warn-border: #9e7900;
+      --warn-fg: #f0d878;
+      --code-bg: #1e242c;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    line-height: 1.6;
+  }
+  main {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 2.5rem 1.25rem 4rem;
+  }
+  h1 {
+    font-size: 1.9rem;
+    margin-bottom: 0.25rem;
+  }
+  h2 {
+    font-size: 1.3rem;
+    margin-top: 2.2rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .meta {
+    color: var(--muted);
+    font-size: 0.95rem;
+    margin-top: 0;
+  }
+  .lang-switch {
+    font-size: 0.95rem;
+    margin: 0.4rem 0 0;
+  }
+  .banner {
+    background: var(--warn-bg);
+    border: 1px solid var(--warn-border);
+    color: var(--warn-fg);
+    border-radius: 6px;
+    padding: 0.9rem 1.1rem;
+    font-size: 0.95rem;
+    margin: 1.2rem 0 1.8rem;
+  }
+  .banner strong { font-weight: 700; }
+  code {
+    background: var(--code-bg);
+    padding: 0.15em 0.4em;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    font-size: 0.95rem;
+  }
+  th, td {
+    border: 1px solid var(--border);
+    padding: 0.6rem 0.8rem;
+    text-align: left;
+    vertical-align: top;
+  }
+  th {
+    background: var(--card);
+  }
+  ul { padding-left: 1.3rem; }
+  li { margin-bottom: 0.4rem; }
+  hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 2.5rem 0 1.5rem;
+  }
+  footer {
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-style: italic;
+  }
+</style>
+</head>
+<body>
+<main>
+
+<h1>Privacy Policy for Discretio Secure Vault</h1>
+<p class="meta">Last updated: [DATE]</p>
+<p class="lang-switch">🌐 <a href="fr/">Lire cette politique en français</a></p>
+
+<div class="banner">
+  <strong>Status: DRAFT / SAMPLE</strong> — placeholder text for Play Store submission, pending final legal review. Do not treat as a finished legal document.
+</div>
+
+<p>This Privacy Policy describes how Discretio Secure Vault ("the app", "we", "us") — package name <code>com.vault.trueaes</code> — handles information when you use it.</p>
+
+<h2>Summary</h2>
+<p>Discretio is an offline, on-device encrypted vault. <strong>We do not operate any server, and the app never uploads, syncs, or transmits your files, notes, photos, folders, passwords, or vault contents anywhere.</strong> Everything you store in the vault is encrypted (AES-256-GCM for files, AES-256-XTS for hidden containers) and stays on your device. We have no account system and no backend, so we have no ability to see, access, recover, or hand over your vault contents to anyone, including ourselves.</p>
+<p>The only data that ever leaves your device is described in the "Purchases" section below, and that data goes to Google, not to us.</p>
+
+<h2>Data we collect</h2>
+<p>We — the developers of Discretio — do not collect, store, or have access to any personal data, vault contents, or usage analytics. The app does not currently integrate any analytics, crash-reporting, or advertising service.</p>
+
+<h2>Data handled by third-party services</h2>
+<p>The app embeds Google Play Billing to process in-app purchases. It operates under Google's own privacy policy, linked below.</p>
+
+<h3>Purchases (Google Play Billing)</h3>
+<ul>
+  <li>In-app purchases (e.g. unlocking premium features) are processed entirely by Google Play Billing.</li>
+  <li>We do not receive or store your payment method, card details, or billing address — that information is handled by Google. We only receive confirmation that an entitlement was purchased, which is stored locally on your device to unlock the corresponding feature.</li>
+  <li>Google Play Billing may process account and transaction information per <a href="https://policies.google.com/privacy">Google's Privacy Policy</a>.</li>
+</ul>
+
+<h2>Permissions the app requests, and why</h2>
+<table>
+  <thead>
+    <tr><th>Permission</th><th>Purpose</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Camera / Microphone</td>
+      <td>Only used when you choose to use the in-app Secure Capture feature to photograph/record directly into the encrypted vault. Nothing is captured without you actively opening that feature.</td>
+    </tr>
+    <tr>
+      <td>Biometric / Fingerprint</td>
+      <td>Used only to unlock the app/vault with your device's biometric hardware, as an alternative to your master password. Biometric data itself is handled entirely by the Android OS and never reaches the app or us.</td>
+    </tr>
+    <tr>
+      <td>Storage / Photos &amp; Videos (media permissions)</td>
+      <td>Used only when you choose to import an existing file/photo/video into the vault, or export/share one back out.</td>
+    </tr>
+    <tr>
+      <td>Notifications</td>
+      <td>Used for local, on-device notifications (e.g. related to the vault's auto-lock/background service). We do not use push notifications from a server, because we have no server.</td>
+    </tr>
+    <tr>
+      <td>Internet / Network State</td>
+      <td>Used exclusively by the Google Play Billing SDK described above. The vault's encryption, storage, and file management code never makes a network request.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Data retention and deletion</h2>
+<p>Because nothing you store in the vault is ever sent to us, there is nothing on our end to retain or delete. Your vault data lives only on your device (or wherever you've configured local/removable storage to point), encrypted at rest, until you delete it yourself or uninstall the app.</p>
+
+<h2>Children's privacy</h2>
+<p>The app is not directed at children, and we do not knowingly collect personal information from anyone, regardless of age — this follows automatically from the app having no data-collection mechanism in the first place.</p>
+
+<h2>Security</h2>
+<p>Vault contents are encrypted on-device using AES-256-GCM (individual files) or AES-256-XTS (hidden VeraCrypt-compatible containers), with keys derived from your master password via Argon2id/PBKDF2. Master key material is generated randomly and only ever exists in native memory, never written to disk in plaintext. See the app's public source code for implementation details.</p>
+
+<h2>Disclaimer of liability</h2>
+<p>Discretio Secure Vault is provided "as is," without warranty of any kind. Because of the zero-knowledge design described above, we have no way to access, view, back up, or recover your data or your Master Password under any circumstances — including a forgotten password, misuse of the app, device loss or damage, or an app malfunction. You are solely responsible for remembering your Master Password (or safely storing the app's optional, one-time password-recovery code, if you choose to generate one) and for keeping your own backups — use the app's Encrypted Backup feature (Settings → Encrypted Backup) regularly, since device loss, damage, or an uninstall can otherwise mean permanent loss of everything in your vault. To the fullest extent permitted by law, the developer is not liable for any data loss or other damages arising from use of this app.</p>
+
+<h2>Changes to this policy</h2>
+<p>If this policy changes, we will update the "Last updated" date above and, for material changes, note it in the app's release notes.</p>
+
+<h2>Contact</h2>
+<p>Questions about this policy can be raised via the project's GitHub Issues page:<br>
+<a href="https://github.com/madleysk/TrueAESVault/issues">https://github.com/madleysk/TrueAESVault/issues</a></p>
+<p><em>(Placeholder contact email — replace before final publication: <code>[INSERT CONTACT EMAIL]</code>)</em></p>
+
+<hr>
+
+<footer>This document is a draft sample prepared ahead of Google Play Store submission and is intended to be reviewed, refined, and replaced with a final version — including a real "last updated" date and verified contact details — before the app is published.</footer>
+
+</main>
+</body>
+</html>
