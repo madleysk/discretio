@@ -1,8 +1,6 @@
 # Politique de confidentialité de Discretio Secure Vault
 
-**Statut : BROUILLON / EXEMPLE — texte provisoire préparé pour la soumission au Play Store, en attente de relecture juridique finale. Ne pas considérer comme un document juridique définitif.**
-
-*Dernière mise à jour : [DATE]*
+*Dernière mise à jour : 2026-08-29*
 
 *[Read this policy in English](PRIVACY_POLICY.md)*
 
@@ -63,8 +61,4 @@ Si cette politique évolue, nous mettrons à jour la date de « Dernière mise �
 Les questions concernant cette politique peuvent être soulevées via la page GitHub Issues du projet :
 https://github.com/madleysk/TrueAESVault/issues
 
-*(Adresse e-mail de contact provisoire — à remplacer avant la publication finale : `[INSERT CONTACT EMAIL]`)*
-
----
-
-*Ce document est un exemple de brouillon préparé en vue d'une soumission au Google Play Store et doit être relu, affiné et remplacé par une version finale — incluant une date de « dernière mise à jour » réelle et des coordonnées de contact vérifiées — avant la publication de l'application.*
+*Adresse e-mail de contact : `support.discretio@proton.me`*

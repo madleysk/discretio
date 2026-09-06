@@ -1,8 +1,6 @@
 # Privacy Policy for Discretio Secure Vault
 
-**Status: DRAFT / SAMPLE — placeholder text for Play Store submission, pending final legal review. Do not treat as a finished legal document.**
-
-*Last updated: [DATE]*
+*Last updated: 2026-08-29*
 
 *[Lire cette politique en français](PRIVACY_POLICY.fr.md)*
 
@@ -63,8 +61,4 @@ If this policy changes, we will update the "Last updated" date above and, for ma
 Questions about this policy can be raised via the project's GitHub Issues page:
 https://github.com/madleysk/TrueAESVault/issues
 
-*(Placeholder contact email — replace before final publication: `[INSERT CONTACT EMAIL]`)*
-
----
-
-*This document is a draft sample prepared ahead of Google Play Store submission and is intended to be reviewed, refined, and replaced with a final version — including a real "last updated" date and verified contact details — before the app is published.*
+*Email: `support.discretio@proton.me`*
