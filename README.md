@@ -13,5 +13,5 @@ Discretio is a suite of private, offline, on-device encryption and security tool
 
 ## Contact
 
-- Issues: https://github.com/madleysk/TrueAESVault/issues
+- Issues: https://github.com/madleysk/discretio/issues
 - Email: `support.discretio@proton.me`

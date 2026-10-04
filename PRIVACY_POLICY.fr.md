@@ -59,6 +59,6 @@ Si cette politique évolue, nous mettrons à jour la date de « Dernière mise �
 ## Contact
 
 Les questions concernant cette politique peuvent être soulevées via la page GitHub Issues du projet :
-https://github.com/madleysk/TrueAESVault/issues
+https://github.com/madleysk/discretio/issues
 
 *Adresse e-mail de contact : `support.discretio@proton.me`*

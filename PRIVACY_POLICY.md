@@ -59,6 +59,6 @@ If this policy changes, we will update the "Last updated" date above and, for ma
 ## Contact
 
 Questions about this policy can be raised via the project's GitHub Issues page:
-https://github.com/madleysk/TrueAESVault/issues
+https://github.com/madleysk/discretio/issues
 
 *Email: `support.discretio@proton.me`*
