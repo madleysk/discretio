@@ -1,14 +1,14 @@
-# Privacy Policy for Discretio Secure Vault
+# Privacy Policy for Discretio — Private Encryption and Security Tools
 
-*Last updated: 2026-08-29*
+*Last updated: 2026-10-04*
 
 *[Lire cette politique en français](PRIVACY_POLICY.fr.md)*
 
-This Privacy Policy describes how Discretio Secure Vault ("the app", "we", "us") — package name `com.vault.trueaes` — handles information when you use it.
+This Privacy Policy describes how Discretio — Private Encryption and Security Tools ("the app", "we", "us") — package name `com.vault.trueaes` — handles information when you use it.
 
 ## Summary
 
-Discretio is an offline, on-device encrypted vault. **We do not operate any server, and the app never uploads, syncs, or transmits your files, notes, photos, folders, passwords, or vault contents anywhere.** Everything you store in the vault is encrypted (AES-256-GCM for files, AES-256-XTS for hidden containers) and stays on your device. We have no account system and no backend, so we have no ability to see, access, recover, or hand over your vault contents to anyone, including ourselves.
+Discretio is a suite of private, offline, on-device encryption and security tools, built around an encrypted vault. **We do not operate any server, and the app never uploads, syncs, or transmits your files, notes, photos, folders, passwords, or vault contents anywhere.** Everything you store in the vault is encrypted (AES-256-GCM for files, AES-256-XTS for hidden containers) and stays on your device. We have no account system and no backend, so we have no ability to see, access, recover, or hand over your vault contents to anyone, including ourselves.
 
 The only data that ever leaves your device is described in the "Purchases" section below, and that data goes to Google, not to us.
 
@@ -50,7 +50,7 @@ Vault contents are encrypted on-device using AES-256-GCM (individual files) or A
 
 ## Disclaimer of liability
 
-Discretio Secure Vault is provided "as is," without warranty of any kind. Because of the zero-knowledge design described above, we have no way to access, view, back up, or recover your data or your Master Password under any circumstances — including a forgotten password, misuse of the app, device loss or damage, or an app malfunction. You are solely responsible for remembering your Master Password (or safely storing the app's optional, one-time password-recovery code, if you choose to generate one) and for keeping your own backups — use the app's Encrypted Backup feature (Settings → Encrypted Backup) regularly, since device loss, damage, or an uninstall can otherwise mean permanent loss of everything in your vault. To the fullest extent permitted by law, the developer is not liable for any data loss or other damages arising from use of this app.
+Discretio is provided "as is," without warranty of any kind. Because of the zero-knowledge design described above, we have no way to access, view, back up, or recover your data or your Master Password under any circumstances — including a forgotten password, misuse of the app, device loss or damage, or an app malfunction. You are solely responsible for remembering your Master Password (or safely storing the app's optional, one-time password-recovery code, if you choose to generate one) and for keeping your own backups — use the app's Encrypted Backup feature (Settings → Encrypted Backup) regularly, since device loss, damage, or an uninstall can otherwise mean permanent loss of everything in your vault. To the fullest extent permitted by law, the developer is not liable for any data loss or other damages arising from use of this app.
 
 ## Changes to this policy
 

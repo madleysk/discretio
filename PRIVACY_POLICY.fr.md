@@ -1,14 +1,14 @@
-# Politique de confidentialité de Discretio Secure Vault
+# Politique de confidentialité de Discretio — Outils privés de chiffrement et de sécurité
 
-*Dernière mise à jour : 2026-08-29*
+*Dernière mise à jour : 2026-10-04*
 
 *[Read this policy in English](PRIVACY_POLICY.md)*
 
-Cette politique de confidentialité décrit comment Discretio Secure Vault (« l'application », « nous ») — nom de package `com.vault.trueaes` — traite les informations lorsque vous utilisez l'application.
+Cette politique de confidentialité décrit comment Discretio — Outils privés de chiffrement et de sécurité (« l'application », « nous ») — nom de package `com.vault.trueaes` — traite les informations lorsque vous utilisez l'application.
 
 ## Résumé
 
-Discretio est un coffre-fort chiffré, hors ligne et entièrement local à l'appareil. **Nous n'exploitons aucun serveur, et l'application ne télécharge, ne synchronise ni ne transmet jamais vos fichiers, notes, photos, dossiers, mots de passe ou tout autre contenu du coffre-fort où que ce soit.** Tout ce que vous stockez dans le coffre-fort est chiffré (AES-256-GCM pour les fichiers, AES-256-XTS pour les conteneurs cachés) et reste sur votre appareil. Nous n'avons ni système de compte ni backend, nous n'avons donc aucun moyen de voir, d'accéder, de récupérer ou de transmettre le contenu de votre coffre-fort à qui que ce soit, y compris nous-mêmes.
+Discretio est une suite d'outils privés de chiffrement et de sécurité, hors ligne et entièrement locale à l'appareil, articulée autour d'un coffre-fort chiffré. **Nous n'exploitons aucun serveur, et l'application ne télécharge, ne synchronise ni ne transmet jamais vos fichiers, notes, photos, dossiers, mots de passe ou tout autre contenu du coffre-fort où que ce soit.** Tout ce que vous stockez dans le coffre-fort est chiffré (AES-256-GCM pour les fichiers, AES-256-XTS pour les conteneurs cachés) et reste sur votre appareil. Nous n'avons ni système de compte ni backend, nous n'avons donc aucun moyen de voir, d'accéder, de récupérer ou de transmettre le contenu de votre coffre-fort à qui que ce soit, y compris nous-mêmes.
 
 La seule donnée qui quitte jamais votre appareil est décrite dans la section « Achats » ci-dessous, et cette donnée est transmise à Google, pas à nous.
 
@@ -50,7 +50,7 @@ Le contenu du coffre-fort est chiffré sur l'appareil avec AES-256-GCM (fichiers
 
 ## Clause de non-responsabilité
 
-Discretio Secure Vault est fourni « tel quel », sans garantie d'aucune sorte. En raison de la conception « zero-knowledge » décrite ci-dessus, nous n'avons aucun moyen d'accéder à vos données ou à votre mot de passe principal, de les consulter, de les sauvegarder ou de les récupérer, quelles que soient les circonstances — y compris en cas de mot de passe oublié, d'usage abusif de l'application, de perte ou de dommage de l'appareil, ou de dysfonctionnement de l'application. Vous êtes seul responsable de mémoriser votre mot de passe principal (ou de conserver en lieu sûr le code de récupération à usage unique optionnel de l'application, si vous choisissez d'en générer un) et de conserver vos propres sauvegardes — utilisez régulièrement la fonction de sauvegarde chiffrée de l'application (Paramètres → Sauvegarde chiffrée), car la perte, l'endommagement ou la désinstallation de l'appareil peuvent sinon entraîner la perte définitive de tout le contenu de votre coffre-fort. Dans toute la mesure permise par la loi, le développeur ne pourra être tenu responsable de toute perte de données ou autre dommage résultant de l'utilisation de cette application.
+Discretio est fourni « tel quel », sans garantie d'aucune sorte. En raison de la conception « zero-knowledge » décrite ci-dessus, nous n'avons aucun moyen d'accéder à vos données ou à votre mot de passe principal, de les consulter, de les sauvegarder ou de les récupérer, quelles que soient les circonstances — y compris en cas de mot de passe oublié, d'usage abusif de l'application, de perte ou de dommage de l'appareil, ou de dysfonctionnement de l'application. Vous êtes seul responsable de mémoriser votre mot de passe principal (ou de conserver en lieu sûr le code de récupération à usage unique optionnel de l'application, si vous choisissez d'en générer un) et de conserver vos propres sauvegardes — utilisez régulièrement la fonction de sauvegarde chiffrée de l'application (Paramètres → Sauvegarde chiffrée), car la perte, l'endommagement ou la désinstallation de l'appareil peuvent sinon entraîner la perte définitive de tout le contenu de votre coffre-fort. Dans toute la mesure permise par la loi, le développeur ne pourra être tenu responsable de toute perte de données ou autre dommage résultant de l'utilisation de cette application.
 
 ## Modifications de cette politique
 
