@@ -58,7 +58,6 @@ If this policy changes, we will update the "Last updated" date above and, for ma
 
 ## Contact
 
-Questions about this policy can be raised via the project's GitHub Issues page:
-https://github.com/madleysk/discretio/issues
+For support, questions about this policy, or issue reports, contact us by email:
 
 *Email: `support.discretio@proton.me`*

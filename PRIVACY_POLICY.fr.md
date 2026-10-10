@@ -58,7 +58,6 @@ Si cette politique évolue, nous mettrons à jour la date de « Dernière mise �
 
 ## Contact
 
-Les questions concernant cette politique peuvent être soulevées via la page GitHub Issues du projet :
-https://github.com/madleysk/discretio/issues
+Pour toute demande d'assistance, question concernant cette politique ou signalement de problème, contactez-nous par e-mail :
 
 *Adresse e-mail de contact : `support.discretio@proton.me`*
