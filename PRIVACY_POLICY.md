@@ -46,8 +46,7 @@ The app is not directed at children, and we do not knowingly collect personal in
 
 ## Security
 
-Vault contents are encrypted on-device using AES-256-GCM (individual files) or AES-256-XTS (hidden VeraCrypt-compatible containers), with keys derived from your master password via Argon2id/PBKDF2. Master key material is generated randomly and only ever exists in native memory, never written to disk in plaintext. See the app's public source code for implementation details.
-
+Vault contents are encrypted on-device using AES-256-GCM (individual files) or AES-256-XTS (hidden VeraCrypt-compatible containers), with keys derived from your master password via Argon2id/PBKDF2. Master key material is generated randomly and only ever exists in native memory, never written to disk in plaintext.
 ## Disclaimer of liability
 
 Discretio is provided "as is," without warranty of any kind. Because of the zero-knowledge design described above, we have no way to access, view, back up, or recover your data or your Master Password under any circumstances — including a forgotten password, misuse of the app, device loss or damage, or an app malfunction. You are solely responsible for remembering your Master Password (or safely storing the app's optional, one-time password-recovery code, if you choose to generate one) and for keeping your own backups — use the app's Encrypted Backup feature (Settings → Encrypted Backup) regularly, since device loss, damage, or an uninstall can otherwise mean permanent loss of everything in your vault. To the fullest extent permitted by law, the developer is not liable for any data loss or other damages arising from use of this app.
